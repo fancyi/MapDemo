@@ -20,7 +20,7 @@ public class HttpUtils {
     private static final String CON_URL = "http://www.tuling123.com/openapi/api";//Api 地址
     private static final String API_KEY = "756e42191aada1d0763514ca0c33662c";//API KEY
     /**
-     * 发送一个消息，得到返回的消息
+     * 发送一个消息，得到返回的消息 111
      * @param msg
      * @return
      */
